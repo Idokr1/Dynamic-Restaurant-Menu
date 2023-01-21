@@ -7,3 +7,6 @@ In this project, I created a restaurant menu with an option to filter the meals 
 - CSS
 
 Inspired by freeCodeCamp.org tutorial: https://www.youtube.com/watch?v=3PHXvlpOkf4
+
+## Dynamic Restaurant Menu:
+https://idokr1.github.io/Dynamic-Restaurant-Menu-JS
